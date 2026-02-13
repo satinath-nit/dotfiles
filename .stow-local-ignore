@@ -1,0 +1,10 @@
+\.git
+^/.gitignore
+^/README\.md
+^/LICENSE
+^/setup_env\.sh
+^/Brewfile
+^/Brewfile\.lock\.json
+^/.DS_Store
+^/.stow-local-ignore
+^/.github
